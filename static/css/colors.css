@@ -1,0 +1,48 @@
+.color-1,
+.btn.bg-color-1:hover {
+  color: #404040;
+}
+
+.bg-color-1 {
+  background-color: #404040;
+}
+
+.color-2,
+.btn.bg-color-2:hover {
+  color: #f0be47
+}
+
+.bg-color-2 {
+  background-color: #f0be47
+}
+
+.color-3,
+.btn.bg-color-3:hover {
+  color: #A9A9A9
+}
+
+.bg-color-3 {
+  background-color: #A9A9A9
+}
+
+.color-4,
+.btn.bg-color-4:hover {
+  color: #FF3B3F
+}
+
+.bg-color-4 {
+  background-color: #FF3B3F
+}
+
+.btn.bg-color-1:hover,
+.btn.bg-color-2:hover,
+.btn.bg-color-3:hover,
+.btn.bg-color-4:hover {
+  background-color: #fff;
+}
+
+
+
+
+
+
